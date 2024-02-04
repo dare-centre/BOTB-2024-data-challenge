@@ -1,2 +1,2 @@
-# botb-2024-data-challenge
-lorem ispum dolar
+# Bayes on the Beach 2024 Challenge
+Coolangatta Gold
